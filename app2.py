@@ -8,7 +8,7 @@ import shap
 import matplotlib.pyplot as plt
 import numpy as np
 
-TEST = 0
+TEST = 0;
 
 # st.set_page_config(layout="wide")
 
